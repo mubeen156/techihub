@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://testing.com",
+      "permanent": true,
+      "statusCode": 301
+    }
+  ]
+}
