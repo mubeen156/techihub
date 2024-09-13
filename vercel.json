@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/(.*)", 
-      "destination": "https://github.com/vercel/vercel", 
+      "destination": "https://germs.buzz", 
       "statusCode": 301
     }
   ]
