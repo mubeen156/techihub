@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    { 
-      "source": "/(.*)", 
-      "destination": "https://germs.buzz", 
-      "statusCode": 301
-    }
-  ]
-}
