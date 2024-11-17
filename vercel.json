@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    { 
-      "source": "/(.*)", 
-      "destination": "http://fieoxs.shop", 
-      "statusCode": 301
-    }
-  ]
-}
